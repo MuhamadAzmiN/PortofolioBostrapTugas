@@ -1,0 +1,134 @@
+.img-background {
+
+    /* efek filter black */
+    /* filter: grayscale(50%) brightness(50%); */
+    
+}
+.semua-kotak {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.kotak {
+    background-color: #14a7a0;
+    width: 300px;
+    border-radius: 10px;
+    height: 100px;
+    margin-top: 15px;
+}
+
+
+.img img {
+    width: 90px;
+    
+
+}
+main {
+    height: 300px;
+}
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.text p {
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.text img {
+    padding: 10px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    border-radius: 17px;
+}
+.text1 span {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.semua {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-scrol{
+    width: 500px;
+}
+
+#carouselExampleIndicators {
+    width: 600px;
+}
+.kategori-semua {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* .text-kategori {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.text-kategori p {
+    font-size: 17px;
+}
+.text-kategori h1 {
+    font-weight: bold;
+    font-size: 70px;
+   
+}
+.text-kategori h1 span {
+    font-weight: bold;
+    font-size: 70px;
+    color: #0d6efd;
+   
+}
+.text-kategori h2 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #0d6efd;
+   
+}
+.button-kategori {
+    background-color: #0d6efd;;
+    border: none;
+    width: 150px;
+    color: white;
+    height: 40px;
+    border-radius: 7px;
+}
+.button2-kategori {
+    background-color: #ffffff;;
+    border: none;
+    width: 150px;
+    color: white;
+    height: 40px;
+    border-radius: 7px;
+    border: 1px solid black;
+    color: black;
+}
+.button2-kategori:hover{
+    background-color: black;
+    color: #ffffff;
+    transition: all .3s ease-in-out;
+    border: 1px solid black;
+}
+
+.cards {
+    margin-top: 100px;
+}
+.img-kategori {
+    width: 100%;
+}
+
+
+
